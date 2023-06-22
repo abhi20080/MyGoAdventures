@@ -1,0 +1,2 @@
+# MyGoAdventures
+A golang webserver
